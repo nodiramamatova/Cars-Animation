@@ -42,6 +42,7 @@
 				D5856CFA1E4D9EC800B1C8C3 /* Products */,
 			);
 			sourceTree = "<group>";
+			wrapsLines = 1;
 		};
 		D5856CFA1E4D9EC800B1C8C3 /* Products */ = {
 			isa = PBXGroup;
@@ -297,6 +298,7 @@
 				D5856D0D1E4D9EC800B1C8C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
